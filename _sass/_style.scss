@@ -5,6 +5,11 @@ html, body{
 	height:100%; width:100%;
 }
 
+blockquote{
+    border-left: 7px solid black;
+    padding-left: 11px;
+}
+
 *{transition: all 0.2s ease-in-out;}
 /*Themes*/
 html, body, .search{
